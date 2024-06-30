@@ -1,11 +1,3 @@
-# ML Model Bulider
-streamlit
-pandas
-scikit-learn
-altair
-
-# RAG v.1
-# pysqlite3-binary
 langchain
 chromadb
 unstructured
